@@ -1,0 +1,14 @@
+{
+  "name": "udemynadejsadvancedconcepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "threads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed McCormic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
